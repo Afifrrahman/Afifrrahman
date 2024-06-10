@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Afif Rahman I'm from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Afif Rahman</h2>
 
 ###
 
